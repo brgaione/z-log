@@ -1,0 +1,5 @@
+baseURL = "https://zlog.netlify.app/"
+languageCode = "pt-br"
+title = "zlog"
+theme = "PaperMod"
+author = "brgaione"
