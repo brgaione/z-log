@@ -1,5 +1,5 @@
-baseURL = "https://zlog.netlify.app/"
+baseURL = https://zlogik.netlify.app/
 languageCode = "pt-br"
-title = "zlog"
+title = "zlogik"
 theme = "PaperMod"
 author = "brgaione"
