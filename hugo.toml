@@ -1,4 +1,4 @@
-baseURL = https://zlogik.netlify.app/
+baseURL = "https://zlogik.netlify.app/"
 languageCode = "pt-br"
 title = "zlogik"
 theme = "PaperMod"

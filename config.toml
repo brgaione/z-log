@@ -1,0 +1,23 @@
+[params]
+  ShowToc = true         # Exibe o sumário lateral no post
+  TocOpen = true         # Sumário já vem aberto
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+[[menu.main]]
+  name = "Categorias"
+  url = "/categories/"
+  weight = 1
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Filosofia"
+  url = "/filosofia/"
+  weight = 3
+[params.homeInfoParams]
+  Title = "zlogik"
+  Content = "Estudos filosóficos organizados por tema, autor e conceito."
